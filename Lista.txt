@@ -5,6 +5,8 @@
 ||poki.com^$important
 ||minijuegos.com^$important
 ||juegos.com^$important
+||juegosfriv.uno/^$important
+||juegos.com/^$important
 ||juegosjuegos.com^$important
 ||1001juegos.com^$important
 ||juegosdiarios.com^$important
