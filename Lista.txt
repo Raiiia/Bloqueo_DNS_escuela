@@ -38,4 +38,7 @@
 ||miniclip.com^$important
 ||es.pog.com^$important
 ||mousebreaker.com^$important
+||juegosdechicas.com^$important
 ||newgrounds.com^$important
+||juegos.games^$important
+||juegosjuegos.ws^$important
